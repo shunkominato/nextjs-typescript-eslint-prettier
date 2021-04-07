@@ -20,6 +20,7 @@ const StaticPropsDetail = ({ item, errors }: Props) => {
       </Layout>
     )
   }
+  console.log('aa')
 
   return (
     <Layout
